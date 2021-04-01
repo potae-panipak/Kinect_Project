@@ -20,7 +20,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using System.Speech.Synthesis;
-using Microsoft.Azure.Kinect.BodyTracking;
+using Microsoft.Azure.Kinect.BodyTracking; //hello
 
 namespace Kinect_Final_Project
 {
