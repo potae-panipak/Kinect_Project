@@ -1,5 +1,5 @@
 # Kinect_Project
-For C# the Library that need to download in nuget package are
+**For C# the Library that need to download in nuget package are**
 
 1.Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
 
@@ -27,7 +27,7 @@ For C# the Library that need to download in nuget package are
 
 13.System.Runtime.CompilerServices.Unsafe
 
-For python code in LineAPI the library that need to download are
+**For python code in LineAPI the library that need to download are**
 
 1.pip install pymongo
 
