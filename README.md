@@ -15,7 +15,7 @@ For C# the Library that need to download in nuget package are
 12.System.Reflection.Emit.Lightweight
 13.System.Runtime.CompilerServices.Unsafe
 
-For python code in LineApi the library that need to download are
+For python code in LineAPI the library that need to download are
 
 1.pip install pymongo
 2.npm i heroku
