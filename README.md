@@ -1,5 +1,6 @@
 # Kinect_Project
 For C# the Library that need to download in nuget package are
+
 1.Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
 2.Microsoft.Azure.Kinect.BodyTracking
 3.Microsoft.Azure.Kinect.BodyTracking.Dependencies
@@ -15,6 +16,7 @@ For C# the Library that need to download in nuget package are
 13.System.Runtime.CompilerServices.Unsafe
 
 For python code in LineApi the library that need to download are
+
 1.pip install pymongo
 2.npm i heroku
 3.npm install bson-objectid
