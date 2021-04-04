@@ -38,7 +38,6 @@ namespace Kinect_Final_Project
 
         async private void WindowLoaded(object sender, RoutedEventArgs e)
         {
-            await CallLineApiService().ConfigureAwait(true);
             Device device;
             try
             {
