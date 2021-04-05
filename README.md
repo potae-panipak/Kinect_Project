@@ -1,5 +1,5 @@
 # Kinect_Project
-**For C# the Library that need to download in nuget package are**
+**For C# our project use WPF App(.NET Framework 4.6.1) and the Library that need to download in nuget package are**
 
 1.Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
 
@@ -27,7 +27,7 @@
 
 13.System.Runtime.CompilerServices.Unsafe
 
-**For python code in LineAPI the library that need to download are**
+**For python code in LineAPI the command that use to run in terminal is "python app.py" and the library that need to download are**
 
 1.pip install pymongo
 
