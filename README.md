@@ -36,3 +36,6 @@
 3.npm install bson-objectid
 
 4.npm install linebot
+
+**Reference for recording video through Kinect
+https://docs.microsoft.com/en-us/azure/kinect-dk/azure-kinect-recorder
